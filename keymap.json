@@ -1,0 +1,13 @@
+[
+  {
+    "bindings": {
+      "ctrl-t": "workspace::ToggleBottomDock",
+      "ctrl-c": "terminal::Copy",
+      "ctrl-v": "terminal::Paste",
+      "ctrl-left": "workspace::ToggleLeftDock",
+      "ctrl-right": "workspace::ToggleRightDock",
+      "f5": "task::Rerun",
+      "f3": "file_finder::Toggle"
+    }
+  }
+]
