@@ -1,9 +1,9 @@
 [
   {
     "bindings": {
-      "ctrl-t": "workspace::ToggleBottomDock",
       "ctrl-c": "terminal::Copy",
       "ctrl-v": "terminal::Paste",
+      "ctrl-down": "workspace::ToggleBottomDock",
       "ctrl-left": "workspace::ToggleLeftDock",
       "ctrl-right": "workspace::ToggleRightDock",
       "f5": "task::Rerun",
